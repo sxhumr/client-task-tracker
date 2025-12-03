@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Environment files
+*.env
+Tasks_backend/.env
+tasks_frontend/.env
+
+# React build
+tasks_frontend/build/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
